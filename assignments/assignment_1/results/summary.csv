@@ -1,0 +1,4 @@
+variant,mean_final_best,std_final_best,runs
+point_mutation,14.967685,0.526051,5
+random_search,16.659417,0.236568,5
+subtree_mutation,12.900810,0.468862,5
